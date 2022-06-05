@@ -1,0 +1,118 @@
+ <!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>My CV</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<center>
+	<marquee><h1>Amusa Shuaib Olanrewaju</h1></marquee>
+	<h3><strong>BSC TRansport Planning</strong></h3>
+	<p><a href="http://gmail/">lanreamusa2@gmail.com</p></a>
+</center>
+	<center>
+	<img src="photos/benz/lanre1.jpg" width="250" height="250">
+</center>
+	<hr>
+
+	<p>I am a hardworking and very resourceful professional who can work under pressures to meet tight deadlines. I have a good Leadership/self motivational spirit towards achieving set objectives. I am a faithful, loyal and dedicated worker who uploads intergrity.</p>
+
+
+	<h3>INSTITUTIONS ATTENDED WITH <br> DATES/CERTIFICATE OBTAINED</h3>
+	<hr>
+
+	<p>1. Olabisi Onabanjo University, (2017-2022)</p>
+	<p>2. Champions International College, (2009-2015): G.C.E(2014)</p>
+	<p>3. Champions International Schools, (2003-2009) First SChool Leaving Certificate</p>
+
+	<h3>JOB EXPERIENCE</h3>
+	<p>1. Progress NIG LTD</p>
+	<p>2. Side Hustle NG (SEPT-DEC 2020 Intern/ Front end Development)</p>
+
+	<h3>SEMINARS/COURSES ATTENDED</h3>
+	<p>FULL STACK DEVELOPMENT, UDEMY (2021)</p>
+	<p>BOOTSTRAP 4 TUTORIALS AND PROJECT, UDEMY(2021)</p>
+	<p>INTRODUCTION TO WEB-DEVELOPMENT, YOUTUBE(2021)</p>
+
+	<h3>EXPERIENCED WITH:</h3>
+	<p>HTML</p>
+	<p>CSS</p>
+	<p>JAVASCRIPT</p>
+	<hr>
+
+	<h3>CORE COMPETENCE/TRAITS</h3>
+	<p>EXCELLENT COMMUNICATION SKILLS</p>
+	<p>EMOTIONAL INTELLIGENCE</p>
+	<p>LEADERSHIP ABILITY</p>
+	<p>GOOD TEAM SPIRIT</p>
+	<hr>
+
+	<h3>HOBBIES</h3>
+	<p>FOOTBALL</p>
+	<p>CHESS</p>
+	<p>GAMES</p>
+
+<hr>
+
+<h4>Send me an Email</h4>
+	<form>
+		<fieldset>
+			<legend>Enter your info Below</legend>
+
+			<label>Name</label>
+			<input type="text" placeholder="Olanrewaju">
+
+			<br><br>
+
+			<label>Email</label>
+			<input type="email">
+
+			<br><br>
+
+			<label>Message</label><br><br>
+			<textarea rows="10" cols="30"></textarea>
+
+			<br>
+
+			<input type="submit">
+			<input type="reset" value="clear that info...">
+		</fieldset>
+	</form>
+
+		<hr>
+<center>
+		<p>&copy; 2022 &mdash; Olanrewaju Amusa</p>
+	</center>
+
+
+
+
+
+
+</body>
+</html>
+body{
+	background-color: gold;
+}
+
+ h3{
+	color: white;
+	text-align:30px ;
+	font-family: arial;
+}
+
+h1{
+	color: black;
+	font-family: montserrat;
+}
+
+img{
+	border-radius: 100%;
+
+}
+
+hr{
+	color: white;
+	height: 3px;
+}
